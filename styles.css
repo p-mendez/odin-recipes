@@ -1,6 +1,6 @@
 * {
-    background-color: #333332ff;
-    color: #f1ae00ff;
+    background-color: beige;
+    color: darkred;
 }
 
 h1 {
@@ -10,10 +10,12 @@ h1 {
 img {
     display: block;
     margin: auto;
+    width: 50%
 }
 
 ul {
     list-style: none;
     text-align: center;
     font-size: larger;
+    font-weight: bolder;
 }
