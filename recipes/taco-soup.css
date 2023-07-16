@@ -1,0 +1,26 @@
+html {
+    background-color: #f7be2e;
+    color: #523222;
+}
+
+.recipe-card {
+    background-color: #fcf3c1;
+    padding: 2%;
+    margin: 2%;
+}
+
+h1,
+h2 {
+    color: #9E4E1A;
+    font-weight: 800;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    display: block;
+    margin:auto;
+}
