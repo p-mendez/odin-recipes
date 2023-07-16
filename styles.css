@@ -1,0 +1,19 @@
+* {
+    background-color: #333332ff;
+    color: #f1ae00ff;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    font-size: larger;
+}
