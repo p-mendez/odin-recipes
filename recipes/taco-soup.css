@@ -20,7 +20,8 @@ h1 {
 }
 
 img {
-    width: 80%;
+    width: 600px;
+    margin: 20%;
     display: block;
     margin:auto;
 }
