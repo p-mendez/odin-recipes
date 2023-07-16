@@ -1,0 +1,46 @@
+html {
+    background-color: lightsteelblue;
+    color: #283845;
+}
+
+.recipe-card {
+    background-color: #E7ECEF;
+    padding: 2%;
+    margin: 2%;
+}
+
+h1 {
+    color:rgb(40, 56, 69);
+    text-align: center;
+}
+
+h2 {
+    font-weight: 800;
+}
+
+img {
+
+    display: block;
+    margin:auto;
+}
+
+.strawberry,
+.vanilla,
+.chocolate {
+    font-weight: 900;
+}
+
+
+.strawberry {
+    color: #db6b78;
+}
+
+.vanilla {
+    color:#d3bd89;
+    font-weight: 800;
+}
+
+.chocolate {
+    color: #612419;
+}
+
