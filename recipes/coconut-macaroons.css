@@ -1,0 +1,26 @@
+html {
+    background-color: lightblue;
+    color: #523222;
+}
+
+.recipe-card {
+    background-color: beige;
+    padding: 2%;
+    margin: 2%;
+}
+
+h1,
+h2 {
+    color: #523222;
+    font-weight: 800;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+
+    display: block;
+    margin:auto;
+}
